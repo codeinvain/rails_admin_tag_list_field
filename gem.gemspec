@@ -9,7 +9,7 @@ Gem::Specification.new do |s|
 
   # If you add a runtime dependency, please maintain alphabetical order
   s.add_runtime_dependency('builder', '~> 2.1.0')
-  s.add_runtime_dependency('rails', '~> 3.0.3')
+  s.add_runtime_dependency('rails', '~> 3.1.0')
   
   s.name              = "rails_admin_tag_list_field"
   s.version           = "0.0.1"
